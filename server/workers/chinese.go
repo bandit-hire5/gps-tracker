@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gps/gps-traking/conf"
+	"github.com/gps/gps-tracker/conf"
 
-	"github.com/gps/gps-traking/models"
+	"github.com/gps/gps-tracker/models"
 )
 
 func NewChinese(config conf.Config, tracker *models.SupportedTracker) *Chinese {

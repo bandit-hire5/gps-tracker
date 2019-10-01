@@ -3,7 +3,7 @@ package migrations
 import (
 	"context"
 
-	"github.com/gps/gps-traking/models"
+	"github.com/gps/gps-tracker/models"
 
 	migrate "github.com/xakep666/mongo-migrate"
 	"go.mongodb.org/mongo-driver/bson"

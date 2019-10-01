@@ -6,7 +6,7 @@ import (
 	"github.com/pkg/errors"
 
 	"github.com/caarlos0/env"
-	"github.com/gps/gps-traking/db"
+	"github.com/gps/gps-tracker/db"
 )
 
 type DB struct {

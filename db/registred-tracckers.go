@@ -3,7 +3,7 @@ package db
 import (
 	"context"
 
-	"github.com/gps/gps-traking/models"
+	"github.com/gps/gps-tracker/models"
 	"go.mongodb.org/mongo-driver/bson"
 )
 

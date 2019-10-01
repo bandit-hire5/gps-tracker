@@ -3,7 +3,7 @@ package db
 import (
 	"context"
 
-	"github.com/gps/gps-traking/models"
+	"github.com/gps/gps-tracker/models"
 )
 
 func (d *DB) AddNewTrackerLog(tracker *models.Tracker) error {

@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/gps/gps-traking/conf"
-	_ "github.com/gps/gps-traking/migrations"
-	"github.com/gps/gps-traking/server"
+	"github.com/gps/gps-tracker/conf"
+	_ "github.com/gps/gps-tracker/migrations"
+	"github.com/gps/gps-tracker/server"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 	migrate "github.com/xakep666/mongo-migrate"

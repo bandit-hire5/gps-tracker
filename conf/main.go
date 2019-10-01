@@ -1,7 +1,7 @@
 package conf
 
 import (
-	"github.com/gps/gps-traking/db"
+	"github.com/gps/gps-tracker/db"
 	"github.com/sirupsen/logrus"
 )
 

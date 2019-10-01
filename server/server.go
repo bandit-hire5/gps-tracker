@@ -8,13 +8,13 @@ import (
 	"regexp"
 	"sync"
 
-	"github.com/gps/gps-traking/server/workers"
+	"github.com/gps/gps-tracker/server/workers"
 
-	"github.com/gps/gps-traking/models"
+	"github.com/gps/gps-tracker/models"
 
 	"github.com/pkg/errors"
 
-	"github.com/gps/gps-traking/conf"
+	"github.com/gps/gps-tracker/conf"
 )
 
 type Server struct {
