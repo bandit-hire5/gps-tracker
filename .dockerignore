@@ -1,3 +1,6 @@
 .idea
+.git
 logs/*.txt
 vendor
+build.sh
+Dockerfile
